@@ -1,4 +1,14 @@
 # Creative Coding and Generative Art
+![Screen Shot 2022-05-24 at 9 05 50 PM](https://user-images.githubusercontent.com/90220317/170304140-15ee0f3b-e0d8-44fe-9d0a-8a186422cac0.png)
+
+This is a collection with fun projects using p5.js exploring simulation od complex systems and emergente properties.
+https://p5js.org/
+https://en.wikipedia.org/wiki/Complex_system
+
+Generative art refers to art that in whole or in part has been created with the use of an autonomous system. An autonomous system in this context is generally one that is non-human and can independently determine features of an artwork that would otherwise require decisions made directly by the artist. In some cases the human creator may claim that the generative system represents their own artistic idea, and in others that the system takes on the role of the creator.
+https://en.wikipedia.org/wiki/Generative_art
+Creative coding is a type of computer programming in which the goal is to create something expressive instead of something functional. It is used to create live visuals and for VJing, as well as creating visual art and design, entertainment (e.g. video games), art installations, projections and projection mapping, sound art, advertising, product prototypes, and much more.
+https://en.wikipedia.org/wiki/Creative_coding
 
 
 
@@ -44,4 +54,19 @@ I created a generative animation inspired by the MotionDAO logo. I am totally in
 https://lnkd.in/gw9K2UTu
 
 
+## Simple Fractal Tree
+https://user-images.githubusercontent.com/90220317/170302446-a2558661-2cef-484d-9f6c-47a65902d4b1.mp4
+Simple interactive fractal tree. Move the mouse in the x axis and increase the angle of the branches (opening) and move the mouse on the Y axis to make the tree grow in size.
+Recursion and mouse in interaction.
+#fractal #nature #p5.js #complexity
+https://lnkd.in/g849dTAg
+
+
+## It Takes Two to tangle
+
+https://user-images.githubusercontent.com/90220317/170303028-cb081bdd-69bd-46e5-9136-81950bb26f5e.mp4
+
+Interplay of a human agent (you) moving the bigger ellipse with the cursor creating a gravitational pull for the smaller circle (software agent) following rules of position, mass and acceleration and leaving traces. The closer they get, there is more gravitational force making the smaller ellipse orbiting around the larger circle. Dance with the cursor and 'follow each other". Reload to change the initial conditions. It takes two to tangle. Slow down and play.
+#generativeart #p5 #softwareart
+https://lnkd.in/g77QMYzg
 
