@@ -22,7 +22,11 @@ https://en.wikipedia.org/wiki/Creative_coding
 
 ## Seven Morphing Rainbows
 
-https://user-images.githubusercontent.com/90220317/170300464-3206e956-f262-4bac-b93e-c29773e1f0de.mp4
+<video width="320" height="240" controls>
+  <source src="https://user-images.githubusercontent.com/90220317/170300464-3206e956-f262-4bac-b93e-c29773e1f0de.mp4" type="video/mp4">
+</video>
+
+
 
 An experiment in generative art and creative coding. Seven autonomous agents generate a morphing object sculpting and tangling time with all the colors of their own existence.
 Reload the browser to get different initial conditions.
