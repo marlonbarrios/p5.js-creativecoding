@@ -18,6 +18,24 @@ Creative coding is a type of computer programming in which the goal is to create
 
 https://en.wikipedia.org/wiki/Creative_coding
 
+
+
+## Soft Spaces
+
+![Screen Shot 2022-06-07 at 9 52 57 AM](https://user-images.githubusercontent.com/90220317/172653577-22be66f2-0316-4c00-815f-b96a57509915.png)
+
+Performance in with Canonical (Soft Space #1) by Laura V Ward and VIP guest
+
+
+
+
+<img width="768" alt="Screen Shot 2022-06-08 at 11 25 57 AM" src="https://user-images.githubusercontent.com/90220317/172655809-80feee80-6f8d-4d82-b57c-34312657e26c.png">
+
+It is series of classic video processing algorithms that uses the webcam input as a source and the browser as performance space; it helps us to rediscover the affordances of movement and perception augmented by computational systems and strategies. The space of the frame is choreographed and remapped in coupling with user/performer. Soft Spaces represent the cognitive continuity of software, interface and embodiment. They are invitations to create and compose. How do they soaces make you move?" Created for MotionDAO experiments in NFTs that invite to move.
+
+[Canonical: Soft Space #1](https://marlonbarrios.github.io/canonical-page/)
+
+
 ## Seven Morphing Rainbows
 
 <video width="620" height="540" controls>
