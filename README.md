@@ -30,7 +30,7 @@ It is series of classic video processing algorithms that uses the webcam input a
 
 [Canonical: Soft Space #1](https://marlonbarrios.github.io/canonical-page/)
 
-[SlipScan in Browser: Soft Space #1](https://marlonbarrios.github.io/canonical-page/)
+[Horizontal SlitScan: Soft Space #2](https://marlonbarrios.github.io/horizontal-slitscan/)
 
 
 ## Seven Morphing Rainbows
