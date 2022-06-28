@@ -52,6 +52,20 @@ Mouse click restarts as well
 
 [Wolfram Cellular Automata repo](https://github.com/marlonbarrios/wolfram_one_dim)
 
+
+## Flocking Bubbles
+
+
+I am fascinated by complex systems. An array of particles is created when you click the mouse. The particles flock towards the mouse and and cluster around it. They are sensitive to the sound in the room. Press space bar to reset the system. Press P to take screenshot.
+
+#emergent #p5 #javascript #complexity #flocking
+
+
+[Flocking Bubbles Live](https://marlonbarrios.github.io/flocking-colors/)
+
+[Flocking Bubbles repo](https://github.com/marlonbarrios/flocking-colors)
+
+
 ## Color Particles Fountains
 
 
