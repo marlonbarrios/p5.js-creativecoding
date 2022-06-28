@@ -34,9 +34,9 @@ Mouse click restarts as well
 
 #generativeart #codeart #cellularautomata #wolfran #p5 #1dimension
 
-[Wolfram Cellular Automata](hhttps://marlonbarrios.github.io/wolfram_one_dim/)
+[Wolfram Cellular Automata Live](https://marlonbarrios.github.io/wolfram_one_dim/)
 
-[Wolfram Cellular Automata](https://github.com/marlonbarrios/wolfram_one_dim)
+[Wolfram Cellular Automata repo](https://github.com/marlonbarrios/wolfram_one_dim)
 
 
 ## Seven Morphing Rainbows
