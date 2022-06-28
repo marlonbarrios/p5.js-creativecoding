@@ -38,6 +38,23 @@ Mouse click restarts as well
 
 [Wolfram Cellular Automata repo](https://github.com/marlonbarrios/wolfram_one_dim)
 
+## Color Particles Fountains
+
+
+A particle system is created in the canvas
+and the particles are programmed to be attracted by the mouse.
+On mouse click, more emitters are created in the clicked location of the canvas.
+All particles are individually attracted by the 'gravity' of the mouse.
+Pressing the space bar deletes the 'emitters' in order.
+"e" resets the canvas.
+
+#creativecoding #particlephysics #p5 #codeart
+
+
+[Color Particles Fountains Live](https://marlonbarrios.github.io/color_particle_fountains/)
+
+[Color Particles Fountains repo](https://github.com/marlonbarrios/color_particle_fountains)
+
 
 ## Seven Morphing Rainbows
 
