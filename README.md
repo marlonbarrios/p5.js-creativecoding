@@ -25,6 +25,20 @@ Created  with support of MotionDAO/Near Foundation
 
 [Vertical SlitScan: Soft Space #3](https://marlonbarrios.github.io/vertical-scan/)
 
+
+## Generative MotinDAO Logo Prototype 3
+
+
+MotionDAO Logo with moving particles mutually attrated and moving around text.
+
+#generativedesign #codeart #p5 
+
+[Generative MotinDAO Logo Live](https://marlonbarrios.github.io/motiondao-generative-logo-2/)
+
+[Generative MotinDAO Logo repo](https://github.com/marlonbarrios/motiondao-generative-logo-2)
+
+
+
 ## Wolfram Cellular Automata
 
 
