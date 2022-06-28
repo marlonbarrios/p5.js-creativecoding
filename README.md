@@ -28,9 +28,7 @@ Created  with support of MotionDAO/Near Foundation
 
 ## Seven Morphing Rainbows
 
-<video width="620" height="540" controls>
-  <source src="https://user-images.githubusercontent.com/90220317/170300464-3206e956-f262-4bac-b93e-c29773e1f0de.mp4" type="video/mp4">
-</video>
+<img width="1303" alt="Screen Shot 2022-06-28 at 3 18 13 PM" src="https://user-images.githubusercontent.com/90220317/176267462-02765a87-ecb6-4719-9f97-472e3f5a6662.png">
 
 An experiment in generative art and creative coding. Seven autonomous agents generate a morphing object sculpting and tangling time with all the colors of their own existence.
 Reload the browser to get different initial conditions.
