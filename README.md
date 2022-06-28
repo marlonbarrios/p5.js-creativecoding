@@ -1,36 +1,29 @@
 # Creative Coding and Generative Art
 
+![173256332-7b92618e-16b5-4b36-878f-5573044bc852](https://user-images.githubusercontent.com/90220317/176262721-392f4062-9dc7-43ba-8f8f-58da38651d6b.png)
+
 [Back to Portfolio](https://marlonbarrios.github.io/)
 
-![Screen Shot 2022-05-24 at 9 05 50 PM](https://user-images.githubusercontent.com/90220317/170304140-15ee0f3b-e0d8-44fe-9d0a-8a186422cac0.png)
-
-This is a collection with fun projects using p5.js exploring simulation of complex systems and emergence properties.
-
-https://p5js.org/
-
-https://en.wikipedia.org/wiki/Complex_system
+This is a collection with fun code art projects using p5.js exploring the relationship of form, time and space inspired by complex systems and generative design using P5.js and java Script.
 
 Generative art refers to art that in whole or in part has been created with the use of an autonomous system. An autonomous system in this context is generally one that is non-human and can independently determine features of an artwork that would otherwise require decisions made directly by the artist. In some cases the human creator may claim that the generative system represents their own artistic idea, and in others that the system takes on the role of the creator.
 
-https://en.wikipedia.org/wiki/Generative_art
-
 Creative coding is a type of computer programming in which the goal is to create something expressive instead of something functional. It is used to create live visuals and for VJing, as well as creating visual art and design, entertainment (e.g. video games), art installations, projections and projection mapping, sound art, advertising, product prototypes, and much more.
-
-https://en.wikipedia.org/wiki/Creative_coding
-
 
 
 ## Soft Spaces
 
-![Screen Shot 2022-06-07 at 9 52 57 AM](https://user-images.githubusercontent.com/90220317/172653577-22be66f2-0316-4c00-815f-b96a57509915.png)
+![vertical-slitscan0 (3)](https://user-images.githubusercontent.com/90220317/176262436-fae55141-e366-46af-b217-3fd7be17dc70.png)
 
-Performance in with Canonical (Soft Space #1) by Laura V Ward and VIP guest
+It is series of classic video processing algorithms that uses the webcam input as a source and the browser as a performance space; it helps us to rediscover the interactions of movement and perception augmented by computational systems and strategies. The space of the frame is choreographed and remapped in collaboration with user/performer. Soft Spaces represents the cognitive continuity of motion, software, interface design  and embodiment. They are invitations to create and compose inside computational spaces. How do the spaces make you move?" 
 
-It is series of classic video processing algorithms that uses the webcam input as a source and the browser as performance space; it helps us to rediscover the affordances of movement and perception augmented by computational systems and strategies. The space of the frame is choreographed and remapped in coupling with user/performer. Soft Spaces represent the cognitive continuity of software, interface and embodiment. They are invitations to create and compose. How do they soaces make you move?" Created for MotionDAO experiments in NFTs that invite to move.
+Created  with support of MotionDAO/Near Foundation
 
 [Canonical: Soft Space #1](https://marlonbarrios.github.io/canonical-page/)
 
 [Horizontal SlitScan: Soft Space #2](https://marlonbarrios.github.io/horizontal-slitscan/)
+
+[Vertical SlitScan: Soft Space #3](https://marlonbarrios.github.io/vertical-scan/)
 
 
 ## Seven Morphing Rainbows
@@ -38,7 +31,6 @@ It is series of classic video processing algorithms that uses the webcam input a
 <video width="620" height="540" controls>
   <source src="https://user-images.githubusercontent.com/90220317/170300464-3206e956-f262-4bac-b93e-c29773e1f0de.mp4" type="video/mp4">
 </video>
-
 
 An experiment in generative art and creative coding. Seven autonomous agents generate a morphing object sculpting and tangling time with all the colors of their own existence.
 Reload the browser to get different initial conditions.
