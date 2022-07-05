@@ -48,12 +48,11 @@ This series investigates the potential of generative and procedural drawing usin
 https://user-images.githubusercontent.com/90220317/177328165-5b7582cb-d167-4f25-9b9b-d2cfbb75cd65.mov
 
 
-Expressive code manifesting the terror created by gun violence and supreme court law reversals in the US. I started trying to create 'firewoks' yest this is what ended.
+Expressive code work manifesting the terror created by gun violence, police brutality, and supreme court law reversals in the US. I started trying to create 'firewoks'and this is what became.
 
 [Uncelebration Live](https://marlonbarrios.github.io/unclebration_4thofjuly2022/)
 
 [Uncelebration Repo](https://github.com/marlonbarrios/unclebration_4thofjuly2022))
-
 
 
 ## Generative MotionDAO Logo Prototype 3
