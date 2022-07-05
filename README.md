@@ -1,5 +1,8 @@
 # Creative Coding | Generative Art | Generative Systems
 
+“The idea becomes the machine that makes the art.”
+Sol LeWitt. Paragraphs on Conceptual Art, 1967
+
 ![173256332-7b92618e-16b5-4b36-878f-5573044bc852](https://user-images.githubusercontent.com/90220317/176262721-392f4062-9dc7-43ba-8f8f-58da38651d6b.png)
 
 [Back to Portfolio](https://marlonbarrios.github.io/)
