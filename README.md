@@ -17,7 +17,7 @@ Creative coding is a type of computer programming in which the goal is to create
 
 It is series of classic video processing algorithms that uses the webcam input as a source and the browser as a performance space; it helps us to rediscover the interactions of movement and perception augmented by computational systems and strategies. The space of the frame is choreographed and remapped in collaboration with user/performer. Soft Spaces represents the cognitive continuity of motion, software, interface design  and embodiment. They are invitations to create and compose inside computational spaces. How do the spaces make you move?" 
 
-Created  with support of MotionDAO/Near Foundation
+Developed with partial support of MotionDAO/Near Foundation.
 
 [Canonical: Soft Space #1](https://marlonbarrios.github.io/canonical-page/)
 
@@ -26,7 +26,34 @@ Created  with support of MotionDAO/Near Foundation
 [Vertical SlitScan: Soft Space #3](https://marlonbarrios.github.io/vertical-scan/)
 
 
-## Generative MotinDAO Logo Prototype 3
+## Generative Tools for Meta-creation
+
+This series investigates the potential of generative and procedural drawing using motion based algorythims. It created the posibility that each app becomes for its a tool for creativity and expression.
+
+### Dancing Dots
+
+![291859089_10161937121370968_2705774434817161059_n](https://user-images.githubusercontent.com/90220317/177326964-c7d058ed-287e-48d5-8f7a-36dfbd5cdf08.png)
+
+[Dancing Dots Live](https://marlonbarrios.github.io/dancing_dots/)
+
+[Dancing Dots Repo](https://marlonbarrios.github.io/dancing_dots/))
+
+
+## Uncelebration:USA 4th of July 2022
+
+
+https://user-images.githubusercontent.com/90220317/177328165-5b7582cb-d167-4f25-9b9b-d2cfbb75cd65.mov
+
+
+Expressive code manifesting the terror created by gun violence and supreme court law reversals in the US. I started trying to create 'firewoks' yest this is what ended.
+
+[Uncelebration Live](https://marlonbarrios.github.io/unclebration_4thofjuly2022/)
+
+[Uncelebration Repo](https://github.com/marlonbarrios/unclebration_4thofjuly2022))
+
+
+
+## Generative MotionDAO Logo Prototype 3
 
 
 MotionDAO Logo with moving particles mutually attrated and moving around text.
@@ -37,6 +64,7 @@ MotionDAO Logo with moving particles mutually attrated and moving around text.
 
 [Generative MotinDAO Logo repo](https://github.com/marlonbarrios/motiondao-generative-logo-2)
 
+Developed with partial support of MotionDAO/Near Foundation.
 
 
 ## Wolfram Cellular Automata
