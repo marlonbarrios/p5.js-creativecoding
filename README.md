@@ -31,7 +31,7 @@ Developed with partial support of MotionDAO/Near Foundation.
 
 ## Generative Tools for Meta-creation
 
-This series investigates the potential of generative and procedural drawing using motion based algorythims. It created the posibility that each app becomes for its a tool for creativity and expression.
+This series investigates the potential of generative and procedural drawing using motion based algorythims. It creates the posibility that each app becomes for its a tool for creativity and expression.
 
 ### Dancing Dots
 
@@ -57,6 +57,8 @@ Expressive code manifesting the terror created by gun violence and supreme court
 
 
 ## Generative MotionDAO Logo Prototype 3
+
+![telegram-cloud-photo-size-1-5051020877881256388-y](https://user-images.githubusercontent.com/90220317/177330341-d7495464-bf60-44aa-8b21-b1a94c3c14d0.jpg)
 
 
 MotionDAO Logo with moving particles mutually attrated and moving around text.
