@@ -1,22 +1,32 @@
-# Creative Coding and Generative Art
+# Creative Coding | Generative Art | Generative Systems
 
 ![173256332-7b92618e-16b5-4b36-878f-5573044bc852](https://user-images.githubusercontent.com/90220317/176262721-392f4062-9dc7-43ba-8f8f-58da38651d6b.png)
 
 [Back to Portfolio](https://marlonbarrios.github.io/)
 
-This is a collection with fun code art projects using p5.js exploring the relationship of form, time and space inspired by complex systems and generative design using P5.js and java Script.
+This is a collection code art projects using p5.js and Java Script, exploring the relationship of form, motion, time and space inspired by complex systems and generative design.
 
 Generative art refers to art that in whole or in part has been created with the use of an autonomous system. An autonomous system in this context is generally one that is non-human and can independently determine features of an artwork that would otherwise require decisions made directly by the artist. In some cases the human creator may claim that the generative system represents their own artistic idea, and in others that the system takes on the role of the creator.
 
 Creative coding is a type of computer programming in which the goal is to create something expressive instead of something functional. It is used to create live visuals and for VJing, as well as creating visual art and design, entertainment (e.g. video games), art installations, projections and projection mapping, sound art, advertising, product prototypes, and much more.
 
+I  have been an interdiciplinary artist from more than three decades working in the intersection of:
+ - Improvisational dance practices and choreographic thinking
+ - Interactive/generative real-time technologies and multimedia
+ - Emmbodied Cognition
+ - Blockchain and arts.
 
-**Developed with partial support of MotionDAO/Near Foundation.
+
+[All thse works are released to MIT  License inless indicated otherwise](https://mit-license.org/)
+
+ 
+** Reserach and Development with partial support of MotionDAO/Near Foundation.
 
 
 ## Soft Spaces
 
 ![vertical-slitscan0 (3)](https://user-images.githubusercontent.com/90220317/176262436-fae55141-e366-46af-b217-3fd7be17dc70.png)
+
 
 It is series of classic video processing algorithms that uses the webcam input as a source and the browser as a performance space; it helps us to rediscover the interactions of movement and perception augmented by computational systems and strategies. The space of the frame is choreographed and remapped in collaboration with user/performer. Soft Spaces represents the cognitive continuity of motion, software, interface design  and embodiment. They are invitations to create and compose inside computational spaces. How do the spaces make you move?" 
 
