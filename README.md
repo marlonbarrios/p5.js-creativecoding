@@ -11,6 +11,9 @@ Generative art refers to art that in whole or in part has been created with the 
 Creative coding is a type of computer programming in which the goal is to create something expressive instead of something functional. It is used to create live visuals and for VJing, as well as creating visual art and design, entertainment (e.g. video games), art installations, projections and projection mapping, sound art, advertising, product prototypes, and much more.
 
 
+**Developed with partial support of MotionDAO/Near Foundation.
+
+
 ## Soft Spaces
 
 ![vertical-slitscan0 (3)](https://user-images.githubusercontent.com/90220317/176262436-fae55141-e366-46af-b217-3fd7be17dc70.png)
@@ -63,8 +66,6 @@ MotionDAO Logo with moving particles mutually attrated and moving around text.
 [Generative MotinDAO Logo Live](https://marlonbarrios.github.io/motiondao-generative-logo-2/)
 
 [Generative MotinDAO Logo repo](https://github.com/marlonbarrios/motiondao-generative-logo-2)
-
-Developed with partial support of MotionDAO/Near Foundation.
 
 
 ## Wolfram Cellular Automata
