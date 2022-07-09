@@ -47,13 +47,13 @@ Developed with partial support of MotionDAO/Near Foundation.
 
 This series investigates the potential of generative and procedural drawing using motion based algorythims. It creates the posibility that each app becomes for its a tool for creativity and expression.
 
-### Dancing Dots
+### Tool for Meta-creation 01: Drawing Bot with dots, geometries and perlin noise
 
 ![291859089_10161937121370968_2705774434817161059_n](https://user-images.githubusercontent.com/90220317/177326964-c7d058ed-287e-48d5-8f7a-36dfbd5cdf08.png)
 
 [Dancing Dots Live](https://marlonbarrios.github.io/dancing_dots/)
 
-[Dancing Dots Repo](https://marlonbarrios.github.io/dancing_dots/))
+[Dancing Dots Repo](https://github.com/marlonbarrios/dancing_dots#readme))
 
 
 ## Uncelebration:USA 4th of July 2022
