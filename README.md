@@ -108,7 +108,8 @@ Expressive code work manifesting the terror created by gun violence, police brut
 
 ### Abstracted Tonal Pendulums
 
-![Screen Shot 2022-07-25 at 1 22 32 PM](https://user-images.githubusercontent.com/90220317/180837528-e2cb4851-7217-4349-b61b-a57fa20fc777.png)
+![Screen Shot 2022-07-25 at 1 57 09 PM](https://user-images.githubusercontent.com/90220317/180863559-d203f58b-fede-471f-8605-e639439b5e5c.png)
+
 
 [Abstracted Tonal Pendulums live app](https://marlonbarrios.github.io/abstracted_tonal_pendulums/)
 
