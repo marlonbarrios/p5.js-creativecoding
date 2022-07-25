@@ -104,6 +104,18 @@ Expressive code work manifesting the terror created by gun violence, police brut
 [Alien Flag 01 Repo](https://github.com/marlonbarrios/alien_flag01)
 
 
+## Generative Sound and Image 
+
+### Abstracted Tonal Pendulums
+
+![Screen Shot 2022-07-25 at 1 22 32 PM](https://user-images.githubusercontent.com/90220317/180837528-e2cb4851-7217-4349-b61b-a57fa20fc777.png)
+
+[Abstracted Tonal Pendulums live app](https://marlonbarrios.github.io/abstracted_tonal_pendulums/)
+
+[Abstracted Tonal Pendulums Repo](https://github.com/marlonbarrios/abstracted_tonal_pendulums)
+
+
+
 ## Generative MotionDAO Logo Prototype 3
 
 ![telegram-cloud-photo-size-1-5051020877881256388-y](https://user-images.githubusercontent.com/90220317/177330341-d7495464-bf60-44aa-8b21-b1a94c3c14d0.jpg)
