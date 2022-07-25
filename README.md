@@ -81,7 +81,7 @@ Expressive code work manifesting the terror created by gun violence, police brut
 
 ### 4th of July 2022
 
-https://user-images.githubusercontent.com/90220317/177328165-5b7582cb-d167-4f25-9b9b-d2cfbb75cd65.mov
+![Screen Shot 2022-07-25 at 1 27 53 PM](https://user-images.githubusercontent.com/90220317/180838300-2d172587-ec91-4fb2-89d2-d9f5bdd8b892.png)
 
 [4th of July 2022 live app](https://marlonbarrios.github.io/unclebration_4thofjuly2022/)
 
@@ -102,8 +102,6 @@ https://user-images.githubusercontent.com/90220317/177328165-5b7582cb-d167-4f25-
 [Alien Flag 01 live app](https://marlonbarrios.github.io/alien_flag01/)
 
 [Alien Flag 01 Repo](https://github.com/marlonbarrios/alien_flag01)
-
-
 
 
 ## Generative MotionDAO Logo Prototype 3
