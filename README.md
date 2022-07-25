@@ -45,7 +45,7 @@ Developed with partial support of MotionDAO/Near Foundation.
 
 ## Generative Tools for Meta-creation
 
-This series investigates the potential of generative and procedural drawing using motion based algorythims. It creates the posibility that each app becomes for its a tool for creativity and expression.
+This series investigates the potential of generative and procedural drawing using motion based algorythims. It creates the posibility that each app becomes  tool for creativity and expression.
 
 ### Tool for Meta-creation 01: Drawing geometries and perlin noise
 
@@ -75,17 +75,35 @@ This series investigates the potential of generative and procedural drawing usin
 [Meta-creation 03 repo ](https://github.com/marlonbarrios/culturebots)
 
 
-## Uncelebration:USA 4th of July 2022
+## Expressive Coding
 
+Expressive code work manifesting the terror created by gun violence, police brutality, supreme court law reversals and nationalisms in the US. 
+
+### 4th of July 2022
 
 https://user-images.githubusercontent.com/90220317/177328165-5b7582cb-d167-4f25-9b9b-d2cfbb75cd65.mov
 
+[4th of July 2022 live app](https://marlonbarrios.github.io/unclebration_4thofjuly2022/)
 
-Expressive code work manifesting the terror created by gun violence, police brutality, and supreme court law reversals in the US. I started trying to create 'firewoks'and this is what became.
+[4th of July 2022 Repo](https://github.com/marlonbarrios/unclebration_4thofjuly2022))
 
-[Uncelebration Live](https://marlonbarrios.github.io/unclebration_4thofjuly2022/)
+### Altered States
 
-[Uncelebration Repo](https://github.com/marlonbarrios/unclebration_4thofjuly2022))
+![Screen Shot 2022-07-25 at 1 09 59 PM](https://user-images.githubusercontent.com/90220317/180836356-12a38511-7936-461f-b35b-32d006c431c8.png)
+
+[Altered States live app](https://marlonbarrios.github.io/altered_states/)
+
+[Altered States  Repo](https://github.com/marlonbarrios/altered_states)
+
+### Alien Flag 01
+
+![Screen Shot 2022-07-25 at 1 22 32 PM](https://user-images.githubusercontent.com/90220317/180837528-e2cb4851-7217-4349-b61b-a57fa20fc777.png)
+
+[Alien Flag 01 live app](https://marlonbarrios.github.io/alien_flag01/)
+
+[Alien Flag 01 Repo](https://github.com/marlonbarrios/alien_flag01)
+
+
 
 
 ## Generative MotionDAO Logo Prototype 3
