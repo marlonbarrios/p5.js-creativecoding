@@ -21,10 +21,10 @@ I  have been an interdiciplinary artist from more than three decades working in 
  - Blockchain and arts.
 
 
-[All thse works are released to MIT  License inless indicated otherwise](https://mit-license.org/)
+[All these works are released to MIT  License unless indicated otherwise](https://mit-license.org/)
 
  
-** Reserach and Development with partial support of MotionDAO/Near Foundation.
+** Research and Development with partial support of MotionDAO/Near Foundation.
 
 
 ## Soft Spaces
@@ -45,7 +45,7 @@ Developed with partial support of MotionDAO/Near Foundation.
 
 ## Generative Tools for Meta-creation
 
-This series investigates the potential of generative and procedural drawing using motion based algorythims. It creates the posibility that each app becomes  tool for creativity and expression.
+This series investigates the potential of generative and procedural drawing using motion based algorithims. It creates the posibility that each app becomes  tool for creativity and expression.
 
 ### Tool for Meta-creation 01: Drawing geometries and perlin noise
 
