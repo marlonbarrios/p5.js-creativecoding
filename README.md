@@ -68,11 +68,30 @@ This series investigates the potential of generative and procedural drawing usin
 
 ![culture_bot (16)](https://user-images.githubusercontent.com/90220317/180833974-8577a66f-db59-4e28-9e4e-160742053d3b.jpg)
 
-![culture_bot (52)](https://user-images.githubusercontent.com/90220317/180834133-b1e43aa8-9d51-4a5b-86ab-59be65f4bb00.jpg)
+[ALL APPS HERE](https://marlonbarrios.github.io/flocks/)
 
-[Meta-creation 03 live app](https://marlonbarrios.github.io/culturebots/)
+### Tool for Meta-creation 04: Sine Wave Structures
 
-[Meta-creation 03 repo ](https://github.com/marlonbarrios/culturebots)
+[live app](https://marlonbarrios.github.io/sinewavestructure/)
+
+[Repo](https://github.com/marlonbarrios/sinewavestructure)
+
+### Tool for Meta-creation 05: Parametric Spirograph 
+
+[live app](https://marlonbarrios.github.io/spirograpth/)
+
+[Repo](https://github.com/marlonbarrios/spirograpth)
+
+### Tool for Meta-creation 06: Circles and Sliders
+
+[live app](https://marlonbarrios.github.io/elementsandsliders/)
+
+[Repo](https://github.com/marlonbarrios/elementsandsliders)
+
+
+
+
+
 
 
 ## Expressive Coding
