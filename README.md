@@ -90,10 +90,6 @@ This series investigates the potential of generative and procedural drawing usin
 
 
 
-
-
-
-
 ## Expressive Coding
 
 Expressive code work manifesting the terror created by gun violence, police brutality, supreme court law reversals and nationalisms in the US. 
