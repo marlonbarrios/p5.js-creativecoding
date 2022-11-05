@@ -1,6 +1,7 @@
 # Creative Coding | Generative Art | Generative Systems
 
-![173256332-7b92618e-16b5-4b36-878f-5573044bc852](https://user-images.githubusercontent.com/90220317/176262721-392f4062-9dc7-43ba-8f8f-58da38651d6b.png)
+
+
 
 “The idea becomes the machine that makes the art.”
 
@@ -14,19 +15,10 @@ Generative art refers to art that in whole or in part has been created with the 
 
 Creative coding is a type of computer programming in which the goal is to create something expressive instead of something functional. It is used to create live visuals and for VJing, as well as creating visual art and design, entertainment (e.g. video games), art installations, projections and projection mapping, sound art, advertising, product prototypes, and much more.
 
-I  have been an interdiciplinary artist from more than three decades working in the intersection of:
- - Improvisational dance practices and choreographic thinking
- - Interactive/generative real-time technologies and multimedia
- - Emmbodied Cognition
- - Blockchain and arts.
-
 
 [All these works are released to MIT  License unless indicated otherwise](https://mit-license.org/)
 
 ## Soft Spaces
-
-![vertical-slitscan0 (3)](https://user-images.githubusercontent.com/90220317/176262436-fae55141-e366-46af-b217-3fd7be17dc70.png)
-
 
 It is series of classic video processing algorithms that uses the webcam input as a source and the browser as a performance space; it helps us to rediscover the interactions of movement and perception augmented by computational systems and strategies. The space of the frame is choreographed and remapped in collaboration with user/performer. Soft Spaces represents the cognitive continuity of motion, software, interface design  and embodiment. They are invitations to create and compose inside computational spaces. How do the spaces make you move?" 
 
@@ -38,15 +30,23 @@ Developed with partial support of MotionDAO/Near Foundation.
 
 [Vertical SlitScan: Soft Space #3](https://marlonbarrios.github.io/vertical-scan/)
 
+## Fluir Sin Parar (Tic Tac Art Centre, Brussels, AIR September 2022)
 
+[Collection](https://marlonbarrios.github.io/fluirsinparar/)
+
+## Contemplative Digital Objects
+
+[Collection](https://marlonbarrios.github.io/contemplatovedigitalobjects/)
+
+## 3D in the Browser (Three,js and WEBGL)
+
+[Collection](https://marlonbarrios.github.io/webggandthreejs/)
+ 
 ## Generative Tools for Meta-creation
 
 This series investigates the potential of generative and procedural drawing using motion based algorithims. It creates the posibility that each app becomes  tool for creativity and expression.
 
 ### Tool for Meta-creation 01: Drawing geometries and perlin noise
-
-![291859089_10161937121370968_2705774434817161059_n](https://user-images.githubusercontent.com/90220317/177326964-c7d058ed-287e-48d5-8f7a-36dfbd5cdf08.png)
-
 
 [Meta-creation 01 live app](https://marlonbarrios.github.io/dancing_dots/)
 
@@ -61,8 +61,6 @@ This series investigates the potential of generative and procedural drawing usin
 [Meta-creation 02 repo ](https://github.com/marlonbarrios/behavioral_drawaing_bot)
 
 ### Tool for Meta-creation 03: CultureBots | A Toll for Ideological Swarms
-
-![culture_bot (16)](https://user-images.githubusercontent.com/90220317/180833974-8577a66f-db59-4e28-9e4e-160742053d3b.jpg)
 
 [ALL APPS HERE](https://marlonbarrios.github.io/flocks/)
 
@@ -84,15 +82,11 @@ This series investigates the potential of generative and procedural drawing usin
 
 [Repo](https://github.com/marlonbarrios/elementsandsliders)
 
-
-
 ## Expressive Coding
 
 Expressive code work manifesting the terror created by gun violence, police brutality, supreme court law reversals and nationalisms in the US. 
 
 ### 4th of July 2022
-
-![Screen Shot 2022-07-25 at 1 27 53 PM](https://user-images.githubusercontent.com/90220317/180838300-2d172587-ec91-4fb2-89d2-d9f5bdd8b892.png)
 
 [4th of July 2022 live app](https://marlonbarrios.github.io/unclebration_4thofjuly2022/)
 
@@ -100,38 +94,30 @@ Expressive code work manifesting the terror created by gun violence, police brut
 
 ### Altered States
 
-![Screen Shot 2022-07-25 at 1 09 59 PM](https://user-images.githubusercontent.com/90220317/180836356-12a38511-7936-461f-b35b-32d006c431c8.png)
-
 [Altered States live app](https://marlonbarrios.github.io/altered_states/)
 
 [Altered States  Repo](https://github.com/marlonbarrios/altered_states)
 
 ### Alien Flag 01
 
-![Screen Shot 2022-07-25 at 1 22 32 PM](https://user-images.githubusercontent.com/90220317/180837528-e2cb4851-7217-4349-b61b-a57fa20fc777.png)
-
 [Alien Flag 01 live app](https://marlonbarrios.github.io/alien_flag01/)
 
 [Alien Flag 01 Repo](https://github.com/marlonbarrios/alien_flag01)
-
 
 ## Generative Sound and Image 
 
 ### Abstracted Tonal Pendulums
 
-![Screen Shot 2022-07-25 at 1 57 09 PM](https://user-images.githubusercontent.com/90220317/180863559-d203f58b-fede-471f-8605-e639439b5e5c.png)
-
-
 [Abstracted Tonal Pendulums live app](https://marlonbarrios.github.io/abstracted_tonal_pendulums/)
 
 [Abstracted Tonal Pendulums Repo](https://github.com/marlonbarrios/abstracted_tonal_pendulums)
 
+### Sound Visualizers
+
+[Collection](https://github.com/marlonbarrios/soundvisualizers)
 
 
 ## Generative MotionDAO Logo Prototype 3
-
-![telegram-cloud-photo-size-1-5051020877881256388-y](https://user-images.githubusercontent.com/90220317/177330341-d7495464-bf60-44aa-8b21-b1a94c3c14d0.jpg)
-
 
 MotionDAO Logo with moving particles mutually attrated and moving around text.
 
@@ -141,9 +127,26 @@ MotionDAO Logo with moving particles mutually attrated and moving around text.
 
 [Generative MotinDAO Logo repo](https://github.com/marlonbarrios/motiondao-generative-logo-2)
 
+## Dynamic Logo 2
+
+Another experiment on making a dynamic logo generated by code in p5.js playing with sine waves structures in WEBGL
+#p5 #p5js #codeandmath #genertiveart #nature #complexsystems
+
+[Dynamic Logo 2 Live](https://marlonbarrios.github.io/motiondao-sine--structure/)
+
+[Dynamic Logo 2 repo](https://github.com/marlonbarrios/motiondao-sine--structure)
+
+## Dynamic Logo 1
+
+I created a generative animation inspired by the MotionDAO logo. I am totally into creative coding; it is much fun. This is generated by drawing oscillating waves (sine and cosine).
+#creativecoding #generativeart #p5 #js
+
+[Dynamic Logo 1 Live](https://lnkd.in/gw9K2UTu)
+
+[Dynamic Logo 1repo](https://github.com/marlonbarrios/motiondao_generative_logo)
+
 
 ## Wolfram Cellular Automata
-
 
 Simple demonstration of a Wolfram 1-dimensional cellular automata.
 When the system reaches bottom of the window, it restarts with a new ruleset
@@ -158,11 +161,9 @@ Mouse click restarts as well
 
 ## Flocking Bubbles
 
-
 I am fascinated by complex systems. An array of particles is created when you click the mouse. The particles flock towards the mouse and and cluster around it. They are sensitive to the sound in the room. Press space bar to reset the system. Press P to take screenshot.
 
 #emergent #p5 #javascript #complexity #flocking
-
 
 [Flocking Bubbles Live](https://marlonbarrios.github.io/flocking-colors/)
 
@@ -211,25 +212,7 @@ You can load  and click when you like an image. It exports the image to you desk
 
 [Abstracted Mycelium 1 repo](https://github.com/marlonbarrios/organic-tube-noc1)
 
-## Dynamic Logo 2
 
-
-Another experiment on making a dynamic logo generated by code in p5.js playing with sine waves structures in WEBGL
-#p5 #p5js #codeandmath #genertiveart #nature #complexsystems
-
-[Dynamic Logo 2 Live](https://marlonbarrios.github.io/motiondao-sine--structure/)
-
-[Dynamic Logo 2 repo](https://github.com/marlonbarrios/motiondao-sine--structure)
-
-## Dynamic Logo 1
-
-
-I created a generative animation inspired by the MotionDAO logo. I am totally into creative coding; it is much fun. This is generated by drawing oscillating waves (sine and cosine).
-#creativecoding #generativeart #p5 #js
-
-[Dynamic Logo 1 Live](https://lnkd.in/gw9K2UTu)
-
-[Dynamic Logo 1repo](https://github.com/marlonbarrios/motiondao_generative_logo)
 
 ## Simple Fractal Tree
 
