@@ -2,12 +2,11 @@
 
 ![Screen Shot 2022-11-04 at 4 29 12 PM](https://user-images.githubusercontent.com/90220317/200068999-ed80a01e-8dd3-45c0-96b3-f4ea7b510696.png)
 
+[Back to Portfolio](https://marlonbarrios.github.io/)
 
 “The idea becomes the machine that makes the art.”
 
 Sol LeWitt. Paragraphs on Conceptual Art, 1967
-
-[Back to Portfolio](https://marlonbarrios.github.io/)
 
 This is a collection code art projects using p5.js and Java Script, exploring the relationship of form, motion, time and space inspired by complex systems and generative design.
 
