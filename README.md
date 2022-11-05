@@ -23,10 +23,6 @@ I  have been an interdiciplinary artist from more than three decades working in 
 
 [All these works are released to MIT  License unless indicated otherwise](https://mit-license.org/)
 
- 
-** Research and Development with partial support of MotionDAO/Near Foundation.
-
-
 ## Soft Spaces
 
 ![vertical-slitscan0 (3)](https://user-images.githubusercontent.com/90220317/176262436-fae55141-e366-46af-b217-3fd7be17dc70.png)
