@@ -1,6 +1,6 @@
 # Creative Coding | Generative Art | Generative Systems
 
-
+![Screen Shot 2022-11-04 at 4 29 12 PM](https://user-images.githubusercontent.com/90220317/200068999-ed80a01e-8dd3-45c0-96b3-f4ea7b510696.png)
 
 
 “The idea becomes the machine that makes the art.”
