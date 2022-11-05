@@ -54,8 +54,6 @@ This series investigates the potential of generative and procedural drawing usin
 
 ### Tool for Meta-creation 02: Drawing with Particle Systems/Behavioral Drawing Bot
 
-![drawing (4)](https://user-images.githubusercontent.com/90220317/180832513-e8eb5656-3644-4a82-be9a-81295b8a494a.jpg)
-
 [Meta-creation 02 live app](https://marlonbarrios.github.io/behavioral_drawaing_bot/)
 
 [Meta-creation 02 repo ](https://github.com/marlonbarrios/behavioral_drawaing_bot)
