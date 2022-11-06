@@ -47,15 +47,15 @@ This series investigates the potential of generative and procedural drawing usin
 
 ### Tool for Meta-creation 01: Drawing geometries and perlin noise
 
-[Meta-creation 01 live app](https://marlonbarrios.github.io/dancing_dots/)
+[live app](https://marlonbarrios.github.io/dancing_dots/)
 
-[Meta-creation 01 Repo](https://github.com/marlonbarrios/dancing_dots#readme))
+[Repo](https://github.com/marlonbarrios/dancing_dots#readme))
 
 ### Tool for Meta-creation 02: Drawing with Particle Systems/Behavioral Drawing Bot
 
-[Meta-creation 02 live app](https://marlonbarrios.github.io/behavioral_drawaing_bot/)
+[live app](https://marlonbarrios.github.io/behavioral_drawaing_bot/)
 
-[Meta-creation 02 repo ](https://github.com/marlonbarrios/behavioral_drawaing_bot)
+[Repo](https://github.com/marlonbarrios/behavioral_drawaing_bot)
 
 ### Tool for Meta-creation 03: CultureBots | A Toll for Ideological Swarms
 
@@ -85,21 +85,21 @@ Expressive code work manifesting the terror created by gun violence, police brut
 
 ### 4th of July 2022
 
-[4th of July 2022 live app](https://marlonbarrios.github.io/unclebration_4thofjuly2022/)
+[Live app](https://marlonbarrios.github.io/unclebration_4thofjuly2022/)
 
-[4th of July 2022 Repo](https://github.com/marlonbarrios/unclebration_4thofjuly2022))
+[Repo](https://github.com/marlonbarrios/unclebration_4thofjuly2022))
 
 ### Altered States
 
-[Altered States live app](https://marlonbarrios.github.io/altered_states/)
+[Live app](https://marlonbarrios.github.io/altered_states/)
 
-[Altered States  Repo](https://github.com/marlonbarrios/altered_states)
+[Repo](https://github.com/marlonbarrios/altered_states)
 
 ### Alien Flag 01
 
-[Alien Flag 01 live app](https://marlonbarrios.github.io/alien_flag01/)
+[Live app](https://marlonbarrios.github.io/alien_flag01/)
 
-[Alien Flag 01 Repo](https://github.com/marlonbarrios/alien_flag01)
+[Repo](https://github.com/marlonbarrios/alien_flag01)
 
 ## Generative Sound and Image 
 
