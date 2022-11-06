@@ -117,25 +117,25 @@ Expressive code work manifesting the terror created by gun violence, police brut
 
 [Live App](https://marlonbarrios.github.io/two_folding_grids/)
 
-[Repo](https://marlonbarrios.github.io/two_folding_grids/)
+[Repo](https://github.com/marlonbarrios/two_folding_grids)
 
 ### BAUHAUS Logo
 
 [Live App](https://marlonbarrios.github.io/bauhauslogo/)
 
-[Repo](https://marlonbarrios.github.io/bauhauslogo/)
+[Repo](https://github.com/marlonbarrios/bauhauslogo)
 
 ### Noise Grid
 
 [Live App](https://marlonbarrios.github.io/movedbynoise/)
 
-[Repo](https://marlonbarrios.github.io/movedbynoise/)
+[Repo](https://github.com/marlonbarrios/movedbynoise)
 
 ### Network 
 
 [Live App](https://marlonbarrios.github.io/network/)
 
-[Repo](https://marlonbarrios.github.io/network/)
+[Repo](https://github.com/marlonbarrios/network)
 
 ## Generative MotionDAO Logo Prototype 3
 
