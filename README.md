@@ -8,9 +8,9 @@
 
 Sol LeWitt. Paragraphs on Conceptual Art, 1967
 
-This is a collection code art projects using p5.js and Java Script, exploring the relationship of form, motion, time and space inspired by complex systems and generative design.
+This is a collection code art projects using p5.js, three.js and CanvasHTML5, exploring the relationship of form, motion, time and space inspired by complex systems and generative design.
 
-Generative art refers to art that in whole or in part has been created with the use of an autonomous system. An autonomous system in this context is generally one that is non-human and can independently determine features of an artwork that would otherwise require decisions made directly by the artist. In some cases the human creator may claim that the generative system represents their own artistic idea, and in others that the system takes on the role of the creator.
+Generative seign refers to a composition that in whole or in part has been created with the use of an autonomous system. An autonomous system in this context is generally one that is non-human and can independently determine features of an artwork that would otherwise require decisions made directly by the artist/designer. In some cases the human creator may claim that the generative system represents their own artistic idea, and in others that the system takes on the role of the creator.
 
 Creative coding is a type of computer programming in which the goal is to create something expressive instead of something functional. It is used to create live visuals and for VJing, as well as creating visual art and design, entertainment (e.g. video games), art installations, projections and projection mapping, sound art, advertising, product prototypes, and much more.
 
