@@ -17,6 +17,19 @@ Creative coding is a type of computer programming in which the goal is to create
 
 [All these works are released to MIT  License unless indicated otherwise](https://mit-license.org/)
 
+## Dynamic Typography 
+
+An experiment of generative, animated, interactive  and adaptive design of a font for my initials.
+
+What if a font is a dynamic design, what if a font is a network?
+
+<img width="1355" alt="Screen Shot 2022-11-21 at 7 07 23 PM" src="https://user-images.githubusercontent.com/90220317/203827031-7a491fec-4d77-4164-8b5c-83662bd401af.png">
+
+[Live app](https://marlonbarrios.github.io/generative_font/)
+
+[Repo](https://github.com/marlonbarrios/generative_font/)
+
+
 ## Soft Spaces
 
 It is series of classic video processing algorithms that uses the webcam input as a source and the browser as a performance space; it helps us to rediscover the interactions of movement and perception augmented by computational systems and strategies. The space of the frame is choreographed and remapped in collaboration with user/performer. Soft Spaces represents the cognitive continuity of motion, software, interface design  and embodiment. They are invitations to create and compose inside computational spaces. How do the spaces make you move?" 
@@ -79,7 +92,19 @@ This series investigates the potential of generative and procedural drawing usin
 
 [Repo](https://github.com/marlonbarrios/elementsandsliders)
 
-## Expressive Coding
+## Generative Sound and Image 
+
+### Abstracted Tonal Pendulums
+
+[Abstracted Tonal Pendulums live app](https://marlonbarrios.github.io/abstracted_tonal_pendulums/)
+
+[Abstracted Tonal Pendulums Repo](https://github.com/marlonbarrios/abstracted_tonal_pendulums)
+
+### Sound Visualizers
+
+[Collection](https://github.com/marlonbarrios/soundvisualizers)
+
+## Expressive Visual Coding
 
 Expressive code work manifesting the terror created by gun violence, police brutality, supreme court law reversals and nationalisms in the US. 
 
@@ -101,19 +126,8 @@ Expressive code work manifesting the terror created by gun violence, police brut
 
 [Repo](https://github.com/marlonbarrios/alien_flag01)
 
-## Generative Sound and Image 
 
-### Abstracted Tonal Pendulums
-
-[Abstracted Tonal Pendulums live app](https://marlonbarrios.github.io/abstracted_tonal_pendulums/)
-
-[Abstracted Tonal Pendulums Repo](https://github.com/marlonbarrios/abstracted_tonal_pendulums)
-
-### Sound Visualizers
-
-[Collection](https://github.com/marlonbarrios/soundvisualizers)
-
-### Floding Grids
+### Folding Grids
 
 [Live App](https://marlonbarrios.github.io/two_folding_grids/)
 
