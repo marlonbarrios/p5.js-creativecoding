@@ -29,6 +29,18 @@ What if a font is a dynamic design, what if a font is a network?
 
 [Repo](https://github.com/marlonbarrios/generative_font/)
 
+## Dynamic Polygons 
+
+Parametric animated design for printed minimamist production. Command + S and exports a transparent .png.
+
+
+![2022 11 15-11 25 26](https://user-images.githubusercontent.com/90220317/203828245-84677904-4f5b-465e-a87c-399ee106e09d.png)
+
+
+[Live app](https://marlonbarrios.github.io/dynamichexagons/)
+
+[Repo](https://github.com/marlonbarrios/dynamichexagons/)
+
 
 ## Soft Spaces
 
